@@ -1,0 +1,57 @@
+#home-pg{
+    background: #38b6ff;
+    
+}
+
+#hec 
+{
+    width: 80%;
+    padding-top: 30px;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;   
+}
+
+h1
+{
+    color: white;
+    padding-top: 40px;
+    font-family: 'Anton';font-size: 44px;
+    text-decoration:underline
+}
+  
+
+
+
+
+#mi_subtitulo
+{
+    font-family: 'Anton';font-size: 35px;
+}
+#mi_parrafo
+{
+   font-size: 25px;
+   text-align: justify;
+   text-justify: inter-word;
+}
+
+#Titulo_edu
+{
+    text-align: center;
+    margin: auto;
+}
+
+#imagen_edu
+{
+    height: 250px;
+    width: 250px;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;   
+    padding: 5px;  
+}
+
+.btn-primary
+{
+    background:  #38b6ff;
+}
